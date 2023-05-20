@@ -10,4 +10,4 @@ G.FirstText="Script Preparing"
 G.SecondText="Script Loading..."
 G.ThirdText = "Almost Done..."
 G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
-loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mintyyee/AutoFarm-Script/main/imagetotext.txt", true))()
